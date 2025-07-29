@@ -1,126 +1,26 @@
-<yml_catalog date="2029-07-29 12:39">
+<yml_catalog date="2029-07-29 12:41">
 <shop>
-<offers>
-<offer id="k0002" group_id="стив">
-<outlets>
-<outlet id="Первый" instock="12"/>
-<outlet id="Второй" instock="16"/>
-</outlets>
-<priceZones>
-<priceZone id="ЦЗ1" price= "3001"/>
-<priceZone id="ЦЗ2" price= "5001"/>
-</priceZones>
-</offer>
-<offer id="k0003" group_id="стив">
-<outlets>
-<outlet id="Первый" instock="12"/>
-<outlet id="Второй" instock="16"/>
-</outlets>
-<priceZones>
-<priceZone id="ЦЗ1" price= "3002"/>
-<priceZone id="ЦЗ2" price= "5002"/>
-</priceZones>
-</offer>
-<offer id="k0007" group_id="стив">
-<outlets>
-<outlet id="Первый" instock="12"/>
-<outlet id="Второй" instock="16"/>
-</outlets>
-<priceZones>
-<priceZone id="ЦЗ1" price= "3003"/>
-<priceZone id="ЦЗ2" price= "5003"/>
-</priceZones>
-</offer>
-<offer id="k0005" group_id="стив">
-<outlets>
-<outlet id="Первый" instock="12"/>
-<outlet id="Второй" instock="16"/>
-</outlets>
-<priceZones>
-<priceZone id="ЦЗ1" price= "3004"/>
-<priceZone id="ЦЗ2" price= "5004"/>
-</priceZones>
-</offer>
-<offer id="k0008" group_id="стив">
-<outlets>
-<outlet id="Первый" instock="12"/>
-<outlet id="Второй" instock="16"/>
-</outlets>
-<priceZones>
-<priceZone id="ЦЗ1" price= "3005"/>
-<priceZone id="ЦЗ2" price= "5005"/>
-</priceZones>
-</offer>
-<offer id="k0001" group_id="стив">
-<outlets>
-<outlet id="Первый" instock="12"/>
-<outlet id="Второй" instock="16"/>
-</outlets>
-<priceZones>
-<priceZone id="ЦЗ1" price= "3006"/>
-<priceZone id="ЦЗ2" price= "5006"/>
-</priceZones>
-</offer>
-<offer id="k0006" group_id="стив">
-<outlets>
-<outlet id="Первый" instock="12"/>
-<outlet id="Второй" instock="16"/>
-</outlets>
-<priceZones>
-<priceZone id="ЦЗ1" price= "3007"/>
-<priceZone id="ЦЗ2" price= "5007"/>
-</priceZones>
-</offer>
-<offer id="k0004" group_id="стив">
-<outlets>
-<outlet id="Первый" instock="12"/>
-<outlet id="Второй" instock="16"/>
-</outlets>
-<priceZones>
-<priceZone id="ЦЗ1" price= "3008"/>
-<priceZone id="ЦЗ2" price= "5008"/>
-</priceZones>
-</offer>
-<offer id="k0010" group_id="2">
-<outlets>
-<outlet id="Первый" instock="12"/>
-<outlet id="Второй" instock="16"/>
-</outlets>
-<priceZones>
-<priceZone id="ЦЗ1" price= "3009"/>
-<priceZone id="ЦЗ2" price= "5009"/>
-</priceZones>
-</offer>
-<offer id="k0011" group_id="2">
-<outlets>
-<outlet id="Первый" instock="12"/>
-<outlet id="Второй" instock="16"/>
-</outlets>
-<priceZones>
-<priceZone id="ЦЗ1" price= "3010"/>
-<priceZone id="ЦЗ2" price= "5010"/>
-</priceZones>
-</offer>
-<offer id="k0009" group_id="2">
-<outlets>
-<outlet id="Первый" instock="12"/>
-<outlet id="Второй" instock="16"/>
-</outlets>
-<priceZones>
-<priceZone id="ЦЗ1" price= "3011"/>
-<priceZone id="ЦЗ2" price= "5011"/>
-</priceZones>
-</offer>
-<offer id="k0012" group_id="2">
-<outlets>
-<outlet id="Первый" instock="12"/>
-<outlet id="Второй" instock="16"/>
-</outlets>
-<priceZones>
-<priceZone id="ЦЗ1" price= "3012"/>
-<priceZone id="ЦЗ2" price= "5012"/>
-</priceZones>
-</offer>
-</offers>
-</shop>
+    <offers>
+      <offer id="876678686881" available="true">
+        <price>10001</price>
+        <vat>VAT_20</vat>
+        <shipmentPeriod>5</shipmentPeriod>
+        <outlets>
+          <outlet id="1" instock="1"/>
+        </outlets>
+      </offer>
+      <offer id="876678686885" available="true">
+        <price>10002</price>
+        <vat>VAT_7</vat>
+        <shipmentPeriod>5</shipmentPeriod>
+        <count>1</count>
+      </offer>
+      <offer id="876678686893" available="true">
+        <price>10003</price>
+        <vat>7</vat>
+        <shipmentPeriod>5</shipmentPeriod>
+        <instock>1</instock>
+      </offer>
+    </offers>
+  </shop>
 </yml_catalog>
