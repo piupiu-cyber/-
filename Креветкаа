@@ -1,21 +1,21 @@
 <yml_catalog date="2029-07-29 12:41">
 <shop>
     <offers>
-      <offer id="876678686881" available="true">
+      <offer id="3640574">
         <price>10001</price>
         <vat>VAT_20</vat>
         <shipmentPeriod>5</shipmentPeriod>
         <outlets>
-          <outlet id="1" instock="1"/>
+          <outlet id="1" instock="50"/>
         </outlets>
       </offer>
-      <offer id="876678686885" available="true">
+      <offer id="36405745" available="true">
         <price>10002</price>
         <vat>VAT_7</vat>
         <shipmentPeriod>5</shipmentPeriod>
         <count>1</count>
       </offer>
-      <offer id="876678686893" available="true">
+      <offer id="3640576" available="true">
         <price>10003</price>
         <vat>7</vat>
         <shipmentPeriod>5</shipmentPeriod>
